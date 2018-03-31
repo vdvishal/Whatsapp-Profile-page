@@ -45,7 +45,7 @@ h5{
 }
 
 .image-m{
-  background-image: url(profile.jpg);
+  background-image: url("https://raw.githubusercontent.com/vdvishal/Whatsapp-Profile-page/master/profile.jpg");
   height: 82vh;
   width: 70vw;
   background-size: cover;
